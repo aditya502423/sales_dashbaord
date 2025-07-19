@@ -19,4 +19,4 @@ DAX for custom measures
 Power Query for data transformation
 
 Screenshot /Demo
-Sales Promotion analysis: 
+Sales Promotion analysis: https://github.com/aditya502423/sales_dashbaord/blob/main/Sales%20Promotion%20Analysis.png
