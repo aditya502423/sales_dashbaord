@@ -1,4 +1,4 @@
-# sales_dashbaord
+# sales_dashboard
 Project Title: Sales Promotion Analysis.
 
 Description of the Dashboard
